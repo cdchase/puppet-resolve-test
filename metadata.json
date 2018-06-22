@@ -1,0 +1,12 @@
+{
+  "name": "puppet-resolve-test",
+  "version": "0.1.0",
+  "author": "C. Daniel Chase",
+  "summary": "Testing module resolution WITH .fixtures.yml",
+  "dependencies": [
+    {
+      "name": "puppetlabs-apache",
+      "version_requirement": ">= 3.0.0 < 4.0.0"
+    }
+  ]
+}
